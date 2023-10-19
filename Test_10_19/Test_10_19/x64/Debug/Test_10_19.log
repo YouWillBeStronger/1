@@ -1,0 +1,6 @@
+﻿  test.c
+D:\code\C\Test_10_19\Test_10_19\test.c(75,10): warning C4098: “test1”:“void”函数返回值
+D:\code\C\Test_10_19\Test_10_19\test.c(108,2): warning C4013: “strcmp”未定义；假设外部返回 int
+D:\code\C\Test_10_19\Test_10_19\test.c(108,2): error C2064: 项不会计算为接受 0 个参数的函数
+D:\code\C\Test_10_19\Test_10_19\test.c(108,56): error C2059: 语法错误:“)”
+D:\code\C\Test_10_19\Test_10_19\test.c(109,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
